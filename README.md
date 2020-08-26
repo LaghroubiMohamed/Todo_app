@@ -1,6 +1,7 @@
 # todo_app
 
-A new Flutter project.
+this is a todo app like the one from the TVAC STUDIO channel on youtube 
+link : https://www.youtube.com/watch?v=mOiXndQAZpw 
 
 ## Getting Started
 
